@@ -26,8 +26,8 @@ namespace OtomatikArama
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            string client_id = "d68a8d69c16b6ac209980dc5ec7b381933d91c71ca37d83e8e5c64b0ae2f3f9e";
-            string client_secret = "6b9f79ac744ce39a61b1ba236782b7de4d54a96f9f6c43077449cd86c9e9f799";
+            string client_id = "CLIENT_ID";
+            string client_secret = "CLIENT_SECRET";
 
             /* Tokenları Saklayıp her seferinde giriş yapmadan kullanabilirsiniz */
 
